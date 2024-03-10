@@ -1,0 +1,12 @@
+F:\CSharpProject\Project\WinForm\Bookkeeping\Bookkeeping.Models\bin\Debug\Bookkeeping.Models.dll
+F:\CSharpProject\Project\WinForm\Bookkeeping\Bookkeeping.Models\bin\Debug\Bookkeeping.Models.pdb
+F:\CSharpProject\Project\WinForm\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.csproj.AssemblyReference.cache
+F:\CSharpProject\Project\WinForm\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.csproj.CoreCompileInputs.cache
+F:\CSharpProject\Project\WinForm\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.dll
+F:\CSharpProject\Project\WinForm\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.pdb
+C:\Users\Mark\Desktop\Bookkeeping\Bookkeeping.Models\bin\Debug\Bookkeeping.Models.dll
+C:\Users\Mark\Desktop\Bookkeeping\Bookkeeping.Models\bin\Debug\Bookkeeping.Models.pdb
+C:\Users\Mark\Desktop\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.dll
+C:\Users\Mark\Desktop\Bookkeeping\Bookkeeping.Models\obj\Debug\Bookkeeping.Models.pdb
